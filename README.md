@@ -6,8 +6,8 @@ Items with no license.txt document are currently (2015-vii-4) by default under t
 and will automatically implicitly switch to whatever public domain license the FlightGear simulator http://flightgear.org/ will have switched to, for compatibility with
 distribution with FlightGear.
 
-I have the honour to also have made the current cockpit lateral panels of Nikolai's Viggen model, but I won't put them here because they are strictly tailored to the fuselage
-of the destination aircraft...
+Apart minor changes to some of the cockpit instruments of Nikolai's Viggen model, I have the honour to also have made the current cockpit lateral panels, but I won't put them
+in this repository because they are strictly tailored to the fuselage of the destination aircraft...
 
 ... which BTW I don't stop recommending because Nikolai made a great FDM for it and he's constantly improving systems and 3D modelling:
 https://sites.google.com/site/fghangar/

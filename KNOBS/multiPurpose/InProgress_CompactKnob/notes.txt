@@ -1,0 +1,5 @@
+This knob can be used with low height above a panel or it can be located into a hole in the panel and barely extend above it.
+The idea is probably suitable for plastic injection, or aluminium fusion, or 3D printing.
+Actually I modelled this one after seeing the real thing, in semi transparent plastic (I believe the same exists in metal too).
+
+For use in a game or simulator, this model has probably too few polygons on one part and too many on the other, I plan to remodel it from scratch.
