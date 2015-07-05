@@ -1,0 +1,22 @@
+Weapon selector rotation angles:
+
+    cannon   -85.7
+    pylon 6    0
+    pylon 2   40
+    pylon 3   80
+    pylon 7  120
+
+-----------------------------------
+
+Cannon mode selector:
+
+OP -  full fire speed of cannon
+RED - reduced cannon speed
+OFF - simulations of weapon discharges
+
+Rotation angles:
+
+OP	-70º
+RED	  0º
+OFF	 70º
+

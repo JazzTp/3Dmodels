@@ -1,5 +1,7 @@
-This knob can be used with low height above a panel or it can be located into a hole in the panel and barely extend above it.
-The idea is probably suitable for plastic injection, or aluminium fusion, or 3D printing.
-Actually I modelled this one after seeing the real thing, in semi transparent plastic (I believe the same exists in metal too).
+This knob can be used with low height above a panel or it can be located crossing a panel (should look like if there was a hole in the panel for it, or the aperture can actually be made, circular or cylindric) and barely extend above it.
 
-For use in a game or simulator, this model has probably too few polygons on one part and too many on the other, I plan to remodel it from scratch.
+The idea is probably suitable for plastic injection, or aluminium fusion, or 3D printing.
+Actually I modelled this one after seeing the real thing in an electro-mechanical appliance, made in semi transparent plastic (I believe the same exists in metal too).
+(EDIT: just saw another similar one but with spheric "cuts" where this one has cilyndric or planar "cuts".)
+
+For use in a game or simulator, this model has too few polygons on one part and too many on the other, this was just a test, I plan to remodel it.
