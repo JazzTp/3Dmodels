@@ -1,0 +1,230 @@
+top
+vertical
+bottom
+
+
+======================================
+right panels
+======================================
+
+a2	DONE
+ON
+ANTI COLLISION LIGHT
+OFF
+
+a2	DONE
+ON
+BEACON LIGHT
+OFF
+
+a2	DONE
+ON
+NAVIGATION LIGHT
+OFF
+
+a2	DONE
+ON
+LANDING LIGHT
+OFF
+
+a1	DONE
+ON
+OXYGEN
+OFF
+
+a2	DONE
+ON
+DME
+OFF
+
+a2	DONE
+ON
+RADAR ALTIMETER
+OFF
+
+a2	DONE 2015-7-7
+ON
+STALL WARNING
+OFF
+
+a4	DONE
+CLOSED
+AFTERBURNER CUTOFF
+OPEN
+
+a1	DONE
+ON
+ELECTRIC RESERVE
+OFF
+
+a4	DONE
+MANUAL
+FUEL REGULATION
+AUTOMATIC
+
+a2	DONE
+ON
+ELEC FUELPUMP
+OFF
+
+a2	DONE
+ON
+PNEU FUEL FLOW
+OFF
+
+a2	DONE
+ON
+DROP TANK
+OFF
+
+a2	DONE 2015-7-7
+ON
+HUD SIDESLIP
+OFF
+
+a2	DONE 2015-7-7
+ON
+HUD
+OFF
+
+a1	DONE 2015-7-7
+ON
+PITCH LIMITER
+OFF
+
+
+================================================================
+Left panels
+================================================================
+
+a3	DONE
+CLOSED
+CUTOFF
+OPEN
+
+a2	DONE
+ON
+GENERATOR
+OFF
+
+a3	DONE
+ON
+MAIN ELECTRICITY
+OFF
+
+a4	DONE
+ON
+ENGINE START
+OFF
+
+a1	DONE
+LEFT
+YAW TRIM
+RIGHT
+
+a1	DONE
+LEFT
+ROLL TRIM
+RIGHT
+
+a1	DONE
+ON
+AIRCONDITIONER
+OFF
+
+a1	DONE 2015-7-7
+ON
+NOSEWHEEL STEERING
+OFF
+
+a2	DONE 2015-7-7
+ON
+YAW DAMPER
+OFF
+
+a2	DONE 2015-7-7
+ON
+PITCH DAMPER
+OFF
+
+a2	DONE 2015-7-7
+ON
+ROLL DAMPER
+OFF
+
+a1	DONE 2015-7-7
+ON
+PARKING BRAKE
+OFF
+
+a3	DONE 2015-7-7
+OPEN
+CANOPY
+CLOSE
+
+a1	DONE 2015-7-7
+UP
+GEARS
+DOWN
+
+a3	DONE 2015-7-7
+ON
+BATTERY
+OFF
+
+a2	DONE 2015-7-7
+EXTERNAL
+ELECTRIC SUPPLY
+GENERATOR
+
+a1	DONE 2015-7-7
+AUTO
+LANDING REVERSE
+OFF
+
+a4	DONE
+ON
+RADAR
+OFF
+
+a4	DONE
+ON
+RADAR SCREEN
+OFF
+
+a2	DONE 2015-7-7
+AUTO
+LANDING MODE
+ON
+
+a2	DONE 2015-7-7
+ON
+TILS
+OFF
+
+
+========================
+3-way
+========================
+
+d1
+SMOKE   (title)
+OFF
+YELLOW  (you decide)
+BLUE
+
+d1  (no title)
+WARM (left)
+AUTO (middle)
+COLD (right)
+
+d1
+FORWARD    (right)
+PITCH TRIM (title)
+BACK       (left)
+
+d1
+OFF           (left)
+HYDR FUELPUMP (title)
+HIGH          (middle)
+LOW           (right)

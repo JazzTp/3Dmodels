@@ -1,0 +1,9 @@
+.ac exported from Blender needs editing:
+
+
+
+alu.png => ../alu.png
+
+SWITCH_FACE.png => switchFace.png
+
+replace materials to whatever settings are the current ones
