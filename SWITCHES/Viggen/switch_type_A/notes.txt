@@ -4,6 +4,6 @@
 
 alu.png => ../alu.png
 
-SWITCH_FACE.png => switchFace.png
+SWITCH_FACE.png => switchFace.png (case sensitive I believe, 'F' is the only capital letter)
 
 replace materials to whatever settings are the current ones
