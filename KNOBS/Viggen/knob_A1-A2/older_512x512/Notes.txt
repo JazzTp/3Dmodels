@@ -1,0 +1,4 @@
+This was the commit message when adopting the 256x256 textures:
+
+JA37:
+Model: In knob-A2 for Weapon Sel and Weapon Mode adopte 256x256 textures instead of 512x512. Rotated pick pressure plates to have behavior vs. the marker position consistent with air conditioner knob and with what we can expect intuitively.
