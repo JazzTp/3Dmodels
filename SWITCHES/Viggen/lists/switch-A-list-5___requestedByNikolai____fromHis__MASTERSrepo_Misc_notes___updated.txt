@@ -62,7 +62,7 @@ MANUAL
 FUEL REGULATION
 AUTOMATIC
 
-a2	DONE
+a2	DONE then redone => ELEC FUEL<space>PUMP
 ON
 ELEC FUELPUMP
 OFF
@@ -207,23 +207,23 @@ OFF
 3-way
 ========================
 
-d1
+d1	DONE
 SMOKE   (title)
 OFF
 YELLOW  (you decide)
 BLUE
 
-d1  (no title)
+d1  (no title)	DONE
 WARM (left)
 AUTO (middle)
 COLD (right)
 
-d1
+d1	DONE
 FORWARD    (right)
 PITCH TRIM (title)
 BACK       (left)
 
-d1
+d1	DONE then REDONE => HYDR FUEL<space>PUMP
 OFF           (left)
 HYDR FUELPUMP (title)
 HIGH          (middle)
