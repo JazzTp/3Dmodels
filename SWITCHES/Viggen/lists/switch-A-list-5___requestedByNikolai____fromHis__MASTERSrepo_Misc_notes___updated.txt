@@ -228,4 +228,3 @@ OFF           (left)
 HYDR FUELPUMP (title)
 HIGH          (middle)
 LOW           (right)
-
