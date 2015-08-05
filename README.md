@@ -1,5 +1,5 @@
 # 3Dmodels
-3D models for the [FlightGear] (http://www.flightgear.org/) aircraft **[JA37 Viggen]** (https://github.com/NikolaiVChr) and also 3D models for other purposes.
+3D models for the [FlightGear] (http://www.flightgear.org/) aircraft [JA37 Viggen] (https://github.com/NikolaiVChr) and also 3D models for other purposes.
 
 Items with no license.txt document are currently (2015-vii-4) by default under the GNU General Public License, version 2 (GNU GPLv2) http://www.gnu.org/licenses/gpl-2.0.html
 and will automatically implicitly switch to whatever public domain license the FlightGear simulator http://flightgear.org/ will have switched to, for compatibility with
