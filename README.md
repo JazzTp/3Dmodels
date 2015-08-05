@@ -6,4 +6,4 @@ Items in folders with no *License.txt* document are by default under **GNU GPLv2
 
 Apart minor changes to some of the cockpit instruments of Nikolai's Viggen model, I have the honor to also have made the current cockpit lateral panels, but I won't put them in this repository because they are strictly tailored to the fuselage of the destination aircraft...
 
-... which BTW I don't stop recommending because Nikolai made a *great* FDM for it and he's constantly improving all aspects of the aircraft.
+... which BTW I don't stop recommending because Nikolai made a *great* FDM for it and he's constantly improving *all aspects* of the aircraft.
